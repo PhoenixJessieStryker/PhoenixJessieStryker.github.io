@@ -137,3 +137,18 @@ font-family: 'Indie Flower', cursive;
 b {
     color: white
 }
+Wire-images {
+max-width: 100%;
+box-sizing: border-box;
+}
+}
+.wireframes {
+  padding: 10px 10px;
+  max-width: 40%;
+}
+.wire1 .wire3 {
+  float: left;
+}
+.wire4 .wire2 {
+  float: right;
+}
