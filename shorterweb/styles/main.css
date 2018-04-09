@@ -5,7 +5,7 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 } 
-* {
+* 
    outline: 1px solid rgb(119, 0, 255) !important; 
  }
  .image {
@@ -22,7 +22,7 @@
     display: -webkit-flex;
     display: flex;
 }
-*{
+*
     border: 1px solid red !important;
 }
 *{
@@ -97,10 +97,7 @@
 
 
 
-body {
-    background:rgb(214, 255, 32);
-    font-family: 'Times New Roman', Times, serif;
-}
+
 
 h4 {
     color: rgb(76, 57, 248);
@@ -139,3 +136,6 @@ font-family: 'Indie Flower', cursive;
 .col-2 {
     background: rgb(27, 223, 213);
 }
+* {
+    font-family: 'Indie Flower', cursive;
+    }
