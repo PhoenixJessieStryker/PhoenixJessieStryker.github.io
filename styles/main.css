@@ -1,0 +1,87 @@
+.main-image{
+    float: left;
+    display: inline;
+    position: relative;
+  }
+  .row {
+    width: 100%;
+    margin-bottom: 20px;
+    display: flex;
+}
+.grid {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+*
+* {
+   outline: 1px solid rgb(119, 0, 255) !important; 
+ }
+
+.Tier-z {
+    width: 8.33%;
+}.Tier-2 {
+    width: 16.66;
+}
+.Tier-3 {
+    width: 25%;
+}
+.Tier-3-5 {
+    width: 28%
+}
+.Tier-4 {
+    width: 33.33%;
+}
+.Tier-5 {
+    width: 41.66%;
+}
+.Tier-6 {
+    width: 50%;
+}
+.Tier-7 {
+    width: 58.33%;
+}
+.Tier-8 {
+    width: 66.66%;
+}
+.Tier-9 {
+    width: 75%;
+}
+.Tier-10 {
+    width: 83.33%;
+}
+.Tier-11 {
+    width: 91.66%;
+}
+.Tier-12 {
+    width: 100%;
+}
+.Tier-4 {
+    background: rgb(61, 63, 70);
+}
+.Tier-5 {
+    background: rgb(112, 112, 112);
+}
+
+TEXT
+
+* {
+    font-family: 'Indie Flower', cursive;
+
+    }
+h1 {    font-family: 'Dosis', sans-serif;
+    color: skyblue;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background: rgb(112, 112, 112);
+
+}
