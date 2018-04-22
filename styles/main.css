@@ -85,3 +85,9 @@ h1 {    font-family: 'Dosis', sans-serif;
     background: rgb(112, 112, 112);
 
 }
+@media (min-width: 400px) {
+    nav{
+      background-color: #000;
+      padding-top: 30px;
+      display: block;
+    }
