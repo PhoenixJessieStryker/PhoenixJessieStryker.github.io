@@ -143,3 +143,13 @@ font-family: 'Indie Flower', cursive;
         position: relative;
       }
 
+      Nav{
+        background-color: #ffffff;
+        border: 10px solid rgb(119, 119, 119);
+        padding: 10px;
+      }
+      Section {
+        background-color: rgb(61, 63, 70);
+        border: 10px solid rgb(119, 119, 119);
+        padding: 15px;
+      }
