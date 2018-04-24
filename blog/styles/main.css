@@ -149,3 +149,13 @@ box-sizing: border-box;
 .wire1 .wire3 .wire4 .wire2{
   float: left;
 }
+Nav{
+    background-color: #ffffff;
+    border: 10px solid rgb(119, 119, 119);
+    padding: 10px;
+  }
+  Section {
+    background-color: rgb(61, 63, 70);
+    border: 10px solid rgb(119, 119, 119);
+    padding: 15px;
+  }
